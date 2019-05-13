@@ -1,0 +1,124 @@
+[10-Aug-2015 20:48:40] PHP Parse error:  syntax error, unexpected ')' in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 20
+[10-Aug-2015 20:49:14] PHP Parse error:  syntax error, unexpected ')' in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 20
+[10-Aug-2015 20:49:57] PHP Parse error:  syntax error, unexpected ')' in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 20
+[10-Aug-2015 20:50:52] PHP Parse error:  syntax error, unexpected ')' in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 20
+[01-Sep-2015 09:41:56] PHP Parse error:  syntax error, unexpected ';' in /home6/maxmonic/public_html/m_momax/setting/m_inc/newbudget.php on line 53
+[01-Sep-2015 09:41:58] PHP Parse error:  syntax error, unexpected ';' in /home6/maxmonic/public_html/m_momax/setting/m_inc/newbudget.php on line 53
+[01-Sep-2015 09:42:00] PHP Parse error:  syntax error, unexpected ';' in /home6/maxmonic/public_html/m_momax/setting/m_inc/newbudget.php on line 53
+[01-Sep-2015 09:42:04] PHP Parse error:  syntax error, unexpected ';' in /home6/maxmonic/public_html/m_momax/setting/m_inc/newbudget.php on line 53
+[01-Sep-2015 09:42:06] PHP Parse error:  syntax error, unexpected ';' in /home6/maxmonic/public_html/m_momax/setting/m_inc/newbudget.php on line 53
+[01-Sep-2015 09:42:07] PHP Parse error:  syntax error, unexpected ';' in /home6/maxmonic/public_html/m_momax/setting/m_inc/newbudget.php on line 53
+[01-Sep-2015 09:42:08] PHP Parse error:  syntax error, unexpected ';' in /home6/maxmonic/public_html/m_momax/setting/m_inc/newbudget.php on line 53
+[01-Sep-2015 09:42:13] PHP Parse error:  syntax error, unexpected ';' in /home6/maxmonic/public_html/m_momax/setting/m_inc/newbudget.php on line 53
+[01-Sep-2015 09:42:14] PHP Parse error:  syntax error, unexpected ';' in /home6/maxmonic/public_html/m_momax/setting/m_inc/newbudget.php on line 53
+[01-Sep-2015 09:42:25] PHP Parse error:  syntax error, unexpected ';' in /home6/maxmonic/public_html/m_momax/setting/m_inc/newbudget.php on line 53
+[01-Sep-2015 09:42:26] PHP Parse error:  syntax error, unexpected ';' in /home6/maxmonic/public_html/m_momax/setting/m_inc/newbudget.php on line 53
+[23-Feb-2016 23:56:53 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[23-Feb-2016 23:56:53 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[23-Feb-2016 23:56:53 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[23-Feb-2016 23:56:53 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[23-Feb-2016 23:56:53 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[23-Feb-2016 23:56:53 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[23-Feb-2016 23:56:57 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[23-Feb-2016 23:56:57 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[23-Feb-2016 23:56:57 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[23-Feb-2016 23:56:57 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[23-Feb-2016 23:56:57 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[23-Feb-2016 23:56:57 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[24-Feb-2016 00:05:41 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[24-Feb-2016 00:05:41 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[24-Feb-2016 00:05:41 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[24-Feb-2016 00:05:41 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[24-Feb-2016 00:05:41 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[24-Feb-2016 00:05:41 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[24-Feb-2016 00:05:42 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[24-Feb-2016 00:05:42 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[24-Feb-2016 00:05:42 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[24-Feb-2016 00:05:42 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[24-Feb-2016 00:05:42 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[24-Feb-2016 00:05:42 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[02-Mar-2016 12:22:58 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[11-Jun-2016 16:08:16 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[11-Jun-2016 16:08:16 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[11-Jun-2016 16:08:16 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[11-Jun-2016 16:08:16 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[11-Jun-2016 16:08:16 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[11-Jun-2016 16:08:16 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[11-Jun-2016 16:08:30 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[11-Jun-2016 16:08:30 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[11-Jun-2016 16:08:30 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[11-Jun-2016 16:08:30 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[11-Jun-2016 16:08:30 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[11-Jun-2016 16:08:30 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[11-Jun-2016 16:12:42 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[11-Jun-2016 16:12:42 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[11-Jun-2016 16:12:42 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[11-Jun-2016 16:12:42 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[11-Jun-2016 16:12:42 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[11-Jun-2016 16:12:42 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[11-Jun-2016 16:13:42 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[11-Jun-2016 16:13:42 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[11-Jun-2016 16:13:42 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[11-Jun-2016 16:13:42 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[11-Jun-2016 16:13:42 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[11-Jun-2016 16:13:42 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[27-Jul-2016 07:58:23 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[27-Jul-2016 07:58:23 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[27-Jul-2016 07:58:23 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[27-Jul-2016 07:58:23 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[27-Jul-2016 07:58:23 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[27-Jul-2016 07:58:23 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[27-Jul-2016 07:59:16 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[27-Jul-2016 07:59:16 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[27-Jul-2016 07:59:16 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[27-Jul-2016 07:59:16 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[27-Jul-2016 07:59:16 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[27-Jul-2016 07:59:16 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[27-Jul-2016 08:04:22 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[27-Jul-2016 08:04:22 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[27-Jul-2016 08:04:22 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[27-Jul-2016 08:04:22 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[27-Jul-2016 08:04:22 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[27-Jul-2016 08:04:22 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[27-Jul-2016 08:09:15 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[27-Jul-2016 08:09:15 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[27-Jul-2016 08:09:15 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[27-Jul-2016 08:09:15 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[27-Jul-2016 08:09:15 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[27-Jul-2016 08:09:15 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[07-Oct-2016 19:23:54 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[07-Oct-2016 19:23:54 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[07-Oct-2016 19:23:54 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[07-Oct-2016 19:23:54 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[07-Oct-2016 19:23:54 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[07-Oct-2016 19:23:54 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[07-Oct-2016 19:26:16 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[07-Oct-2016 19:26:16 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[07-Oct-2016 19:26:16 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[07-Oct-2016 19:26:16 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[07-Oct-2016 19:26:16 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[07-Oct-2016 19:26:16 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[10-Feb-2017 14:10:54 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[10-Feb-2017 14:10:54 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[10-Feb-2017 14:10:54 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[10-Feb-2017 14:10:54 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[10-Feb-2017 14:10:54 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[10-Feb-2017 14:10:54 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[10-Feb-2017 14:11:36 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[10-Feb-2017 14:11:36 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[10-Feb-2017 14:11:36 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[10-Feb-2017 14:11:36 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[10-Feb-2017 14:11:36 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[10-Feb-2017 14:11:36 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[10-Feb-2017 14:12:31 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[10-Feb-2017 14:12:31 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[10-Feb-2017 14:12:31 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[10-Feb-2017 14:12:31 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[10-Feb-2017 14:12:31 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[10-Feb-2017 14:12:31 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15
+[10-Feb-2017 14:15:34 America/Denver] PHP Notice:  Undefined index: mid in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 6
+[10-Feb-2017 14:15:34 America/Denver] PHP Notice:  Undefined index: state in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 7
+[10-Feb-2017 14:15:34 America/Denver] PHP Notice:  Undefined index: rights in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 8
+[10-Feb-2017 14:15:34 America/Denver] PHP Notice:  Undefined index: rightsCt in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 9
+[10-Feb-2017 14:15:34 America/Denver] PHP Notice:  Undefined index: rightsArr in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 10
+[10-Feb-2017 14:15:34 America/Denver] PHP Notice:  Undefined variable: yeVal in /home6/maxmonic/public_html/m_momax/setting/m_inc/uptpost.php on line 15

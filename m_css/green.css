@@ -1,0 +1,263 @@
+/* Green Color */
+
+a, a:visited{
+	color: #4ac344;
+}
+
+a:hover{
+	color: #8aca2e;
+}
+
+.color{
+	color: #8aca2e;
+}
+
+.button a, .button a:visited{
+background:#8aca2e;
+border-bottom:2px solid #4ac344;
+}
+
+.button a:hover{
+background:#4ac344;
+}
+
+/* Navigation */
+
+.navbar .nav > li > a:hover{
+	color: #8aca2e !important;
+	-webkit-transition:color 1s ease;
+	-moz-transition:color 1s ease;
+	-o-transition:color 1s ease;
+	transition:color 1s ease;	
+}
+
+.navbar .nav li.dropdown.open > .dropdown-toggle,
+.navbar .nav li.dropdown.active > .dropdown-toggle,
+.navbar .nav li.dropdown.open.active > .dropdown-toggle {
+	color: #8aca2e !important;
+}
+
+.navbar .nav li.dropdown.open > .dropdown-toggle .caret,
+.navbar .nav li.dropdown.active > .dropdown-toggle .caret,
+.navbar .nav li.dropdown.open.active > .dropdown-toggle .caret {
+	border-top-color:#8aca2e !important;
+	border-bottom-color:#8aca2e !important;
+}
+
+.dropdown-menu{
+	border-top: 2px solid #8aca2e !important;
+}
+
+/* Title */
+
+.title i{
+	color: #8aca2e;
+}
+
+/* Service #2 */
+
+.aserv-img i:hover{
+		background: #8aca2e;
+}
+
+/* Flex Slider */
+
+.flex-caption h3 {
+	background: #8aca2e;
+}
+
+/* Slider */
+
+.da-slide h2 span{
+	background: #8aca2e;
+}
+
+.da-slide p{
+	border-left: 3px solid #8aca2e;
+}
+
+.da-slide .da-link{
+	border-left:3px solid #8aca2e;
+}
+
+/* Slider features */
+
+.slider-features i{
+	background: #ff9641;
+}
+
+.slider-features h5 a:hover{
+	color: #8aca2e;
+}
+
+/* Blog */
+
+.posts .tags a{
+background:#8aca2e;
+border:1px solid #4ac344;
+border-bottom:3px solid #4ac344;
+}
+
+.posts .tags a:hover{
+border-bottom:3px solid #8aca2e;
+background:#4ac344;
+border:1px solid #4ac344;
+}
+
+.paging a:hover{
+background: #8aca2e;
+border:1px solid #4ac344;
+}
+
+.paging .current{
+background: #8aca2e;
+border:1px solid #4ac344;
+}
+
+/* Sidebar */
+
+.sidebar .widget{
+	border-top: 1px solid #8aca2e;
+}
+
+/* Events */
+
+.events .panel-heading {
+	background: #8aca2e;
+}
+
+/* Testimonial */
+
+.test{
+border-bottom:2px solid #8aca2e;
+}
+
+.test-arrow{
+border-top-color: #8aca2e;
+}
+
+/* Service style #2 */
+
+.service-two h5 i{
+	color: #ff9641;
+}
+
+/* Process */
+
+.process .process-meta{
+	background: #8aca2e;
+}
+
+/* Features #1 */
+
+.features-one .feat i{
+	color: #8aca2e;
+}
+
+/* Features #2 */
+
+.features-two i{
+	color: #8aca2e;	
+}
+
+/* About #2 */
+
+.about-two .asocial i{
+	background:#8aca2e;
+}
+
+/* Pricing table #1 */
+
+.pricel .phead-top{
+	background: #8aca2e;
+}
+
+/* Pricing table #2 */
+
+.phead-round{
+	background: #8aca2e;
+}
+
+.phead-round:hover{
+	background: #4ac344;
+}
+
+/* Flex slider */
+
+.flexslider .flex-control-nav a:hover{
+	background: #8aca2e !important;
+}
+
+.flexslider a.flex-active{
+	background: #8aca2e !important;
+}
+
+/* Recent posts */
+
+.recent-news .custom-nav a i{
+	background: #8aca2e;
+}	
+
+/* Career */
+
+.nav-tabs > li > a:hover{
+	/*background: #8aca2e; */
+}
+
+/* Back to top */
+
+.totop a, .totop a:visited{
+	background: #8aca2e;
+}
+
+.totop a:hover{
+	background: #4ac344;
+}
+
+/* Footer */
+
+footer{
+	border-top: 4px solid #8aca2e;
+}
+
+/* unrelated style */
+.sm_textbox
+{
+    font-size: 10pt;
+    height: 32px;
+	text-align:center;
+}
+.smtextbox_div
+{
+    font-size: 8pt;
+    height: 22px;
+	text-align:center;
+}
+.sim_formcontrol {
+  display: block;
+  width: 100%;
+  height: 32px;
+  padding: 6px 1px;
+  font-size: 13px;
+  line-height: 1.42857143;
+  color: #555555;
+  background-color: #ffffff;
+  background-image: none;
+}
+.sim_formcontrol_ind {
+  display: block;
+  width: 100%;
+  height: 32px;
+  padding: 6px 1px 6px 12px;
+  font-size: 13px;
+  line-height: 1.42857143;
+  color: #555555;
+  background-color: #ffffff;
+  background-image: none;
+}
+.rowIndent {
+padding-left:5px;
+}
+.tagPadding {
+padding-top:5px;
+}

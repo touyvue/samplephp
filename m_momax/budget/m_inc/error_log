@@ -1,0 +1,57 @@
+[04-Aug-2015 09:01:14] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 190
+[09-Aug-2015 21:26:14] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 21:26:44] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 21:28:54] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 21:31:40] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 190
+[09-Aug-2015 21:32:28] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 21:32:49] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 190
+[09-Aug-2015 21:39:12] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 22:12:21] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 22:52:22] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 190
+[09-Aug-2015 22:57:47] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 190
+[09-Aug-2015 23:10:10] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 23:12:50] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 23:13:55] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 23:14:40] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 23:20:29] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 190
+[09-Aug-2015 23:23:37] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 190
+[09-Aug-2015 23:28:14] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 23:29:13] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 23:29:48] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 23:30:17] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 73
+[09-Aug-2015 23:30:50] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 190
+[09-Aug-2015 23:33:44] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 191
+[09-Aug-2015 23:35:03] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 191
+[10-Aug-2015 05:32:43] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 192
+[10-Aug-2015 05:37:06] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 192
+[10-Aug-2015 05:43:34] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 192
+[10-Aug-2015 05:48:56] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 192
+[10-Aug-2015 05:58:18] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 192
+[10-Aug-2015 06:19:16] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 192
+[10-Aug-2015 06:19:39] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 192
+[10-Aug-2015 06:21:31] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 193
+[10-Aug-2015 06:23:00] PHP Warning:  Invalid argument supplied for foreach() in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 193
+[15-Sep-2015 21:12:38] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudget(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 122 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 342
+[16-Sep-2015 07:05:53] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudget(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 122 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 342
+[28-Sep-2015 06:47:02] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 119 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[01-Oct-2015 16:06:39] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 119 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[01-Oct-2015 16:06:53] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 119 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[06-Oct-2015 11:18:58] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 119 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Oct-2015 08:52:36] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Oct-2015 08:54:01] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Oct-2015 08:54:16] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Oct-2015 08:55:00] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Oct-2015 08:55:24] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Oct-2015 08:55:34] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Oct-2015 08:55:44] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Oct-2015 08:55:53] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Oct-2015 08:56:41] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Oct-2015 08:56:46] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Oct-2015 08:56:50] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[26-Oct-2015 18:18:20] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[04-Nov-2015 09:45:18] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[04-Nov-2015 09:50:23] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[04-Nov-2015 09:54:06] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 346
+[13-Nov-2015 08:02:35] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 393
+[13-Nov-2015 08:03:24] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 393
+[13-Nov-2015 08:10:24] PHP Warning:  Missing argument 11 for budgetInfoC::updateChgBudgetF(), called in /home6/maxmonic/public_html/m_momax/budget/m_inc/addbudget.php on line 120 and defined in /home6/maxmonic/public_html/m_class/class_lib.php on line 393

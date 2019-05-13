@@ -1,0 +1,1 @@
+function validateForm_dt(){if(document.dtrans_form.deleteTrans[0].checked==!1&&document.dtrans_form.deleteTrans[1].checked==!1)return alert("Please confirm deletion."),!1}
